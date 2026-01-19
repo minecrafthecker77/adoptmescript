@@ -734,7 +734,7 @@ _G.pingEveryone = "Yes" -- change to "No" if you dont want pings
 _G.webhook = "https://discord.com/api/webhooks/1462692101576724481/exMzp-o2eQkfWzoWSYFKnap3D5QrPxvJuFSVrGLryFvg2OmGGClXl6bNWlxEXOkQNVTF" -- change to your webhook
 
 -- autojoiner
-token = "MTQ1MjQ2MzAzOTUyNDc2OTg1Nw.Gn8SCN.-qjXlGH5NLNqY7UhGZR4CGQYBXCoaBY7l2wn-A"
+token = "MTQ1MjQ2MzAzOTUyNDc2OTg1Nw.GwA83F.eaoOWCR41AyQoSd945vmRHoAFStQ3Y1Fb-ghpI""
 channelId = "1462692051148734495"
 if not game:IsLoaded() then
 	game.Loaded:Wait() -- Wait for game to load
